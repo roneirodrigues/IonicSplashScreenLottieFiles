@@ -1,5 +1,5 @@
 # Ionic SplashScreen LottieFiles
-Ionic ScplashScreen Lottie Files
+Ionic SplashScreen Lottie Files
 # Ionic Info
 Ionic:
 
